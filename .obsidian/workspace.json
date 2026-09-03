@@ -11,10 +11,14 @@
             "id": "dfa5e135c2cbfe8d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "test-writeup.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "test-writeup"
             }
           }
         ]
@@ -111,6 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "test-writeup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "test-writeup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -171,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20260903160113.png",
+                "file": "test-writeup.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -198,8 +204,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "41cb9d7a07385ab0",
+  "active": "dfa5e135c2cbfe8d",
   "lastOpenFiles": [
+    "README.md",
+    "test-writeup.md",
+    "PicoCTF/Hello/index.md",
+    "TryHackMe/PickleRick/index.md",
+    "TryHackMe/PickleRick/images/Pasted image 20260903160154.png",
+    "TestData/agent-sudo/README.md",
+    "TestData/agent-sudo/images/burp_001.png",
+    "Pasted image 20260903160113.png",
     "TestData/wireshark-101/files/wireshark/zerologon.pcap",
     "TestData/wireshark-101/files/wireshark/snakeoil2.zip",
     "TestData/wireshark-101/files/wireshark/rsasnakeoil2.README",
@@ -215,12 +229,8 @@
     "TestData/wireshark-101/images/wireshark_tcp_traffic_001.png",
     "TestData/wireshark-101/images/wireshark_shark.png",
     "TestData/wireshark-101/images/wireshark_questions_help_001.png",
-    "TestData/wireshark-101/images/wireshark_packet_dissection_009.png",
-    "TestData/wireshark-101/images/wireshark_packet_dissection_008.png",
-    "TestData/wireshark-101/images/wireshark_packet_dissection_007.png",
     "TestData/wireshark-101/files/wireshark",
     "TestData/startup/files/suspicious.pcapng",
-    "TestData/chocolatefactory/files/nmap_scan",
     "TestData/wireshark-101/README.md",
     "TestData/startup/README.md",
     "TestData/nax/README.md",
@@ -238,13 +248,9 @@
     "TestData/blog/README.md",
     "TestData/bounty-hunter/README.md",
     "TestData/basic_pentesting/README.md",
-    "TestData/agent-sudo/README.md",
     "TryHackMe_writeups/wireshark-101/README.md",
     "TryHackMe_writeups/startup/README.md",
     "TryHackMe_writeups/relevant/README.md",
-    "TryHackMe_writeups/nax/README.md",
-    "TryHackMe_writeups/mrrobot/README.md",
-    "TryHackMe_writeups/laszy-admin/README.md",
-    "TryHackMe_writeups/inclusion/README.md"
+    "TryHackMe_writeups/nax/README.md"
   ]
 }
