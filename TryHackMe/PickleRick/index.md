@@ -9,6 +9,7 @@ tags:
   - Linux
   - PrivEsc
 summary: Uwuga
+status: WIP
 ---
 
 # Pickle Rick
