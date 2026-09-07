@@ -15,8 +15,8 @@ A brief description of what the challenge or machine is about.
 [[TryHackMe/PickleRick/index|index]]
 - **Target IP:** `10.10.10.10`
 - **Objective:** Obtain user and root flags.
+- [ishammy/Writeups: Test Writeup](https://github.com/ishammy/Writeups)
 
----
 
 ## 1. Reconnaissance & Scanning
 
