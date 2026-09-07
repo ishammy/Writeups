@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TryHackMe/PickleRick/index.md",
+                "file": "PicoCTF/Hello/index.md",
                 "mode": "source",
                 "source": true
               },
@@ -207,10 +207,10 @@
   },
   "active": "dfa5e135c2cbfe8d",
   "lastOpenFiles": [
-    "README.md",
-    "test-writeup.md",
-    "PicoCTF/Hello/index.md",
     "TryHackMe/PickleRick/index.md",
+    "test-writeup.md",
+    "README.md",
+    "PicoCTF/Hello/index.md",
     "TryHackMe/PickleRick/images/Pasted image 20260903160154.png",
     "TestData/agent-sudo/README.md",
     "TestData/agent-sudo/images/burp_001.png",

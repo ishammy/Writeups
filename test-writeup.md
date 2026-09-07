@@ -1,6 +1,6 @@
 ---
 title: Challenge Name Here
-category: TryHackMe
+category: Testing
 difficulty: Medium
 date: 2026-09-03
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Minecraft
-category: TryHackMe
+category: Hello
 difficulty: Hard
 date: 2026-09-03
 tags:
