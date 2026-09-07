@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test-writeup.md",
+                "file": "TryHackMe/PickleRick/index.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "test-writeup"
+              "title": "index"
             }
           }
         ]
