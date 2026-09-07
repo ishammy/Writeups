@@ -1,10 +1,11 @@
 ---
 title: "Challenge Name Here"
 category: "TryHackMe" # e.g. "TryHackMe", "PicoCTF", "HackTheBox", "Hardware", "Web"
-difficulty: "Easy"     # "Easy", "Medium", "Hard", or "Insane"
+difficulty: "Medium"     # "Easy", "Medium", "Hard", or "Insane"
 date: "2026-09-03"
 tags: ["Web", "SQLi", "Linux", "PrivEsc"]
 summary: "Brief 1-sentence overview of the challenge and how it was solved."
+status: Completed
 ---
 
 # Challenge Name Here
