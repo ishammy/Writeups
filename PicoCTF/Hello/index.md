@@ -9,6 +9,6 @@ tags:
   - Linux
   - PrivEsc
 summary: Uwuga
-status: WIP
+status: Ongoing
 ---
 wkwkkwkwkw
