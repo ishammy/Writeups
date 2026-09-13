@@ -1,6 +1,6 @@
 ---
-title: Input Injection
-category: Binary Exploitation
+title: Crack the Power
+category: Cryptography
 difficulty: Medium
 date: 2026-09-03
 tags:

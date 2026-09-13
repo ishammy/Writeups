@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Input Injection/index.md",
+                "file": "PicoCTF/Crack the Power/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -250,13 +250,13 @@
   },
   "active": "90a921f8ed44db9e",
   "lastOpenFiles": [
-    "PicoCTF/hash-only-2/index.md",
-    "PicoCTF/Input Injection/index.md",
+    "PicoCTF/Crack The Gate 1/index.md",
     "PicoCTF/Crack the Power/index.md",
+    "PicoCTF/Input Injection/index.md",
+    "PicoCTF/hash-only-2/index.md",
     "Markdown Formatting Test.md",
     "Untitled.md",
     "test-writeup.md",
-    "PicoCTF/Crack The Gate 1/index.md",
     "index.md",
     "PicoCTF/Crack The Gate 1",
     "PicoCTF/Crack the Power",
