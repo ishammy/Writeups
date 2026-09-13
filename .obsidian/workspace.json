@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TryHackMe/PickleRick/index.md",
+                "file": "PicoCTF/Crack The Gate 1/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TryHackMe/PickleRick/index.md",
+                "file": "PicoCTF/Crack The Gate 1/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Crack the Power/index.md",
+                "file": "Markdown Formatting Test.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Markdown Formatting Test"
             }
           }
         ],
@@ -248,19 +248,21 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "90a921f8ed44db9e",
+  "active": "41cb9d7a07385ab0",
   "lastOpenFiles": [
-    "TryHackMe/PickleRick/index.md",
+    "Untitled.md",
+    "Markdown Formatting Test.md",
+    "test-writeup.md",
+    "PicoCTF/Crack The Gate 1/index.md",
+    "index.md",
+    "PicoCTF/Crack The Gate 1",
     "PicoCTF/Crack the Power/index.md",
     "PicoCTF/Crack the Power",
     "PicoCTF/hash-only-2/index.md",
     "PicoCTF/Input Injection 2/index.md",
     "PicoCTF/Input Injection/index.md",
-    "Untitled.md",
     "PicoCTF/Input Injection 2",
     "PicoCTF/Input Injection",
-    "Markdown Formatting Test.md",
-    "test-writeup.md",
     "TryHackMe/PickleRick/images/Pasted image 20260913102745.png",
     "README.md",
     "PicoCTF/Hello/index.md",
@@ -280,7 +282,6 @@
     "TestData/wireshark-101/files/wireshark/zerologon.pcap",
     "TestData/wireshark-101/files/wireshark/snakeoil2.zip",
     "TestData/wireshark-101/files/wireshark/rsasnakeoil2.README",
-    "TestData/wireshark-101/files/wireshark/rsasnakeoil2.key",
     "TestData/wireshark-101/images/wireshark_tcp_traffic_005.png",
     "TestData/wireshark-101/images/wireshark_tcp_traffic_004.png",
     "TestData/wireshark-101/README.md",
@@ -294,7 +295,6 @@
     "TestData/empline/README.md",
     "TestData/dailybugle/README.md",
     "TestData/colddboxeasy/README.md",
-    "TestData/chocolatefactory/README.md",
-    "TestData/brooklyn-nine-nine/README.md"
+    "TestData/chocolatefactory/README.md"
   ]
 }
