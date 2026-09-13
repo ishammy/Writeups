@@ -24,6 +24,4 @@ A brief description of what the challenge or machine is about.
 ## 1. Reconnaissance & Scanning
 
 We begin by scanning the target host using `nmap`:
-
-```bash
-nmap -sC -sV -p- 10.10.10.10 -oN nmap_scan.txt
+![[Pasted image 20260913102747.png]]
