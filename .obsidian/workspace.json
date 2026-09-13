@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Markdown Formatting Test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Markdown Formatting Test"
             }
           }
         ],
@@ -234,22 +234,23 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "41cb9d7a07385ab0",
+  "active": "fbc531434cd62db2",
   "lastOpenFiles": [
+    "test-writeup.md",
+    "Markdown Formatting Test.md",
+    "TryHackMe/PickleRick/index.md",
+    "TryHackMe/PickleRick/images/Pasted image 20260913102745.png",
+    "README.md",
+    "PicoCTF/Hello/index.md",
     "PicoCTF/Something/index.md",
     "PicoCTF/Something",
     "PicoCTF/ASDLKA/index.md",
     "PicoCTF/ASDLKA",
     "PicoCTF/Hi/index.md",
     "PicoCTF/Hi",
-    "test-writeup.md",
-    "PicoCTF/Hello/index.md",
     "TryHackMe/PickleRick/images/Pasted image 20260913102742.png",
-    "TryHackMe/PickleRick/images/Pasted image 20260913102745.png",
     "TryHackMe/PickleRick/images/Innovators’ Dinner (1).png",
     "TryHackMe/PickleRick/images/Pasted image 20260913102741.png",
-    "README.md",
-    "TryHackMe/PickleRick/index.md",
     "Untitled.md",
     "TryHackMe/PickleRick/images/Pasted image 20260913102747.png",
     "TryHackMe/PickleRick/images/Pasted image 20260903160154.png",
@@ -279,8 +280,6 @@
     "TestData/chocolatefactory/README.md",
     "TestData/brooklyn-nine-nine/README.md",
     "TestData/blue/README.md",
-    "TestData/blog/README.md",
-    "TestData/bounty-hunter/README.md",
-    "TestData/basic_pentesting/README.md"
+    "TestData/blog/README.md"
   ]
 }
