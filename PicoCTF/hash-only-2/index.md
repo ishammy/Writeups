@@ -1,15 +1,11 @@
 ---
 title: hash-only-2
-category: Hello
-difficulty: Hard
+category: Binary Exploitation
+difficulty: Medium
 date: 2026-09-03
 tags:
-  - Web
-  - SQLi
-  - Linux
-  - PrivEsc
-summary: Uwuga
-status: Ongoing
+summary: 
+status: Completed
 ---
 
 # hash-only-2

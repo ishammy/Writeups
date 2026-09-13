@@ -1,12 +1,11 @@
 ---
 title: Input Injection
-category: Hello
-difficulty: Hard
+category: Binary Exploitation
+difficulty: Medium
 date: 2026-09-03
 tags:
 
-summary: Uwuga
-status: Ongoing
+status: Completed
 ---
 
 # Input Injection 1
