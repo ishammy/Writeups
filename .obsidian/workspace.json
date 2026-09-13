@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Markdown Formatting Test.md",
+                "file": "PicoCTF/Input Injection/index.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Markdown Formatting Test"
+              "title": "index"
             }
           }
         ],
@@ -248,19 +248,19 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "41cb9d7a07385ab0",
+  "active": "90a921f8ed44db9e",
   "lastOpenFiles": [
-    "Untitled.md",
+    "PicoCTF/hash-only-2/index.md",
+    "PicoCTF/Input Injection/index.md",
+    "PicoCTF/Crack the Power/index.md",
     "Markdown Formatting Test.md",
+    "Untitled.md",
     "test-writeup.md",
     "PicoCTF/Crack The Gate 1/index.md",
     "index.md",
     "PicoCTF/Crack The Gate 1",
-    "PicoCTF/Crack the Power/index.md",
     "PicoCTF/Crack the Power",
-    "PicoCTF/hash-only-2/index.md",
     "PicoCTF/Input Injection 2/index.md",
-    "PicoCTF/Input Injection/index.md",
     "PicoCTF/Input Injection 2",
     "PicoCTF/Input Injection",
     "TryHackMe/PickleRick/images/Pasted image 20260913102745.png",

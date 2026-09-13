@@ -1,4 +1,11 @@
-
+---
+title: Input Injection
+category: Binary Exploitation
+difficulty: Medium
+date: 2026-09-03
+tags:
+status: Ongoing
+---
 # Crack the Power
 
 ## 1. Challenge Description
