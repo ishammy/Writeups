@@ -41,16 +41,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Markdown Formatting Test.md",
+                "file": "PicoCTF/Input Injection/index.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Markdown Formatting Test"
+              "title": "index"
+            }
+          },
+          {
+            "id": "90a921f8ed44db9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/Input Injection/index.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "593758de4aedfb77",
@@ -234,16 +248,21 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "fbc531434cd62db2",
+  "active": "90a921f8ed44db9e",
   "lastOpenFiles": [
-    "test-writeup.md",
+    "PicoCTF/Input Injection 2/index.md",
+    "PicoCTF/Input Injection/index.md",
+    "Untitled.md",
+    "PicoCTF/Input Injection 2",
+    "PicoCTF/hash-only-2/index.md",
+    "PicoCTF/Input Injection",
     "Markdown Formatting Test.md",
+    "test-writeup.md",
     "TryHackMe/PickleRick/index.md",
     "TryHackMe/PickleRick/images/Pasted image 20260913102745.png",
     "README.md",
     "PicoCTF/Hello/index.md",
-    "PicoCTF/Something/index.md",
-    "PicoCTF/Something",
+    "PicoCTF/hash-only-2",
     "PicoCTF/ASDLKA/index.md",
     "PicoCTF/ASDLKA",
     "PicoCTF/Hi/index.md",
@@ -251,7 +270,6 @@
     "TryHackMe/PickleRick/images/Pasted image 20260913102742.png",
     "TryHackMe/PickleRick/images/Innovators’ Dinner (1).png",
     "TryHackMe/PickleRick/images/Pasted image 20260913102741.png",
-    "Untitled.md",
     "TryHackMe/PickleRick/images/Pasted image 20260913102747.png",
     "TryHackMe/PickleRick/images/Pasted image 20260903160154.png",
     "TestData/agent-sudo/README.md",
@@ -262,8 +280,6 @@
     "TestData/wireshark-101/files/wireshark/rsasnakeoil2.README",
     "TestData/wireshark-101/files/wireshark/rsasnakeoil2.key",
     "TestData/wireshark-101/files/wireshark/nb6-startup.pcap",
-    "TestData/wireshark-101/files/wireshark/http.cap",
-    "TestData/wireshark-101/files/wireshark/rsasnakeoil2.cap",
     "TestData/wireshark-101/images/wireshark_tcp_traffic_005.png",
     "TestData/wireshark-101/images/wireshark_tcp_traffic_004.png",
     "TestData/wireshark-101/README.md",
@@ -279,7 +295,6 @@
     "TestData/colddboxeasy/README.md",
     "TestData/chocolatefactory/README.md",
     "TestData/brooklyn-nine-nine/README.md",
-    "TestData/blue/README.md",
-    "TestData/blog/README.md"
+    "TestData/blue/README.md"
   ]
 }
