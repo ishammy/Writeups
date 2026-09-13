@@ -1,21 +1,22 @@
 ---
-title: "Challenge Name Here"
-category: "TryHackMe" # e.g. "TryHackMe", "PicoCTF", "HackTheBox", "Hardware", "Web"
-difficulty: "Easy"     # "Easy", "Medium", "Hard", or "Insane"
-date: "2026-09-03"
-tags: ["Web", "SQLi", "Linux", "PrivEsc"]
-summary: "Brief 1-sentence overview of the challenge and how it was solved."
+title: Challenge Name Here
+category: Testing
+difficulty: Medium
+date: 2026-09-03
+tags:
+summary: Directory
+status: COMPLETED
 ---
 
 # Challenge Name Here
 
 ## Description
 A brief description of what the challenge or machine is about.
-
+[[TryHackMe/PickleRick/index|index]]
 - **Target IP:** `10.10.10.10`
 - **Objective:** Obtain user and root flags.
+- [ishammy/Writeups: Test Writeup](https://github.com/ishammy/Writeups)
 
----
 
 ## 1. Reconnaissance & Scanning
 
