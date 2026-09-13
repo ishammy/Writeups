@@ -234,18 +234,24 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "fbc531434cd62db2",
+  "active": "41cb9d7a07385ab0",
   "lastOpenFiles": [
+    "PicoCTF/Something/index.md",
+    "PicoCTF/Something",
+    "PicoCTF/ASDLKA/index.md",
+    "PicoCTF/ASDLKA",
+    "PicoCTF/Hi/index.md",
+    "PicoCTF/Hi",
     "test-writeup.md",
-    "Untitled.md",
-    "TryHackMe/PickleRick/index.md",
     "PicoCTF/Hello/index.md",
-    "TryHackMe/PickleRick/images/Innovators’ Dinner (1).png",
-    "TryHackMe/PickleRick/images/Pasted image 20260913102745.png",
-    "TryHackMe/PickleRick/images/Pasted image 20260913102747.png",
     "TryHackMe/PickleRick/images/Pasted image 20260913102742.png",
+    "TryHackMe/PickleRick/images/Pasted image 20260913102745.png",
+    "TryHackMe/PickleRick/images/Innovators’ Dinner (1).png",
     "TryHackMe/PickleRick/images/Pasted image 20260913102741.png",
     "README.md",
+    "TryHackMe/PickleRick/index.md",
+    "Untitled.md",
+    "TryHackMe/PickleRick/images/Pasted image 20260913102747.png",
     "TryHackMe/PickleRick/images/Pasted image 20260903160154.png",
     "TestData/agent-sudo/README.md",
     "TestData/agent-sudo/images/burp_001.png",
@@ -257,11 +263,8 @@
     "TestData/wireshark-101/files/wireshark/nb6-startup.pcap",
     "TestData/wireshark-101/files/wireshark/http.cap",
     "TestData/wireshark-101/files/wireshark/rsasnakeoil2.cap",
-    "TestData/wireshark-101/files/wireshark/dns+icmp.pcapng",
     "TestData/wireshark-101/images/wireshark_tcp_traffic_005.png",
     "TestData/wireshark-101/images/wireshark_tcp_traffic_004.png",
-    "TestData/wireshark-101/files/wireshark",
-    "TestData/startup/files/suspicious.pcapng",
     "TestData/wireshark-101/README.md",
     "TestData/startup/README.md",
     "TestData/nax/README.md",
@@ -278,8 +281,6 @@
     "TestData/blue/README.md",
     "TestData/blog/README.md",
     "TestData/bounty-hunter/README.md",
-    "TestData/basic_pentesting/README.md",
-    "TryHackMe_writeups/wireshark-101/README.md",
-    "TryHackMe_writeups/startup/README.md"
+    "TestData/basic_pentesting/README.md"
   ]
 }
